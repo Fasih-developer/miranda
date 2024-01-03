@@ -18,9 +18,9 @@ timeline
 })
 .to('.main', {
     y:'0vh',
-    rotate:-720,
+    rotate:-360,
     delay:.2,
     scale:1,
     ease:'power3.inOut',
-    duration:2
+    duration:1.5
 })
